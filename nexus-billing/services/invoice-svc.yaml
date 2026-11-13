@@ -7,5 +7,6 @@ runtime: go
 tier: standard
 build_stamp: '2025-11-30'
 lifecycle: active
-revalidation: pending
+revalidation: revalidated
+revalidation_cycle: 2026-Q4
 contact: billing-platform@nexus.example
