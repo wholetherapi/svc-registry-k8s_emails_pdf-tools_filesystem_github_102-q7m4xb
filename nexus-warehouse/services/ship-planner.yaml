@@ -7,6 +7,5 @@ runtime: python
 tier: standard
 build_stamp: '2025-06-30'
 lifecycle: active
-revalidation: revalidated
-revalidation_cycle: 2026-Q4
+revalidation: pending
 contact: warehouse-data@nexus.example

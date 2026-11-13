@@ -7,6 +7,5 @@ runtime: erlang
 tier: critical
 build_stamp: '2024-02-11'
 lifecycle: active
-revalidation: revalidated
-revalidation_cycle: 2026-Q4
+revalidation: pending
 contact: messaging-infra@nexus.example

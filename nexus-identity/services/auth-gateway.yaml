@@ -7,6 +7,5 @@ runtime: jvm
 tier: critical
 build_stamp: '2022-05-03'
 lifecycle: active
-revalidation: revalidated
-revalidation_cycle: 2026-Q4
+revalidation: pending
 contact: identity-core@nexus.example
