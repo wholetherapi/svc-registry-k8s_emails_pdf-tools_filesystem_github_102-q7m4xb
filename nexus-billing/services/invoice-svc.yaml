@@ -1,0 +1,11 @@
+# Service descriptor - invoice-svc
+# Registry partition: nexus-billing
+service_id: invoice-svc
+partition: nexus-billing
+owner_team: billing-platform
+runtime: go
+tier: standard
+build_stamp: '2025-11-30'
+lifecycle: active
+revalidation: pending
+contact: billing-platform@nexus.example

@@ -1,0 +1,11 @@
+# Service descriptor - auth-gateway
+# Registry partition: nexus-identity
+service_id: auth-gateway
+partition: nexus-identity
+owner_team: identity-core
+runtime: jvm
+tier: critical
+build_stamp: '2022-05-03'
+lifecycle: active
+revalidation: pending
+contact: identity-core@nexus.example

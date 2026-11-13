@@ -1,0 +1,11 @@
+# Service descriptor - legacy-sso
+# Registry partition: nexus-identity
+service_id: legacy-sso
+partition: nexus-identity
+owner_team: identity-core
+runtime: jvm
+tier: standard
+build_stamp: '2021-08-15'
+lifecycle: decommissioned
+revalidation: pending
+contact: identity-archive@nexus.example

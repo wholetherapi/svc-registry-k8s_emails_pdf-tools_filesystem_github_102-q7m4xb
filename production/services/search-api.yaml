@@ -1,0 +1,11 @@
+# Service descriptor - search-api
+# Registry partition: production
+service_id: search-api
+partition: production
+owner_team: storefront
+runtime: go
+tier: standard
+build_stamp: '2025-10-09'
+lifecycle: active
+revalidation: pending
+contact: storefront@nexus.example

@@ -1,0 +1,11 @@
+# Service descriptor - archive-index
+# Registry partition: nx-archive
+service_id: archive-index
+partition: nx-archive
+owner_team: retired-estate
+runtime: java
+tier: standard
+build_stamp: '2023-01-01'
+lifecycle: active
+revalidation: pending
+contact: retired-estate@nexus.example

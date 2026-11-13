@@ -1,0 +1,11 @@
+# Service descriptor - ship-planner
+# Registry partition: nexus-warehouse
+service_id: ship-planner
+partition: nexus-warehouse
+owner_team: warehouse-data
+runtime: python
+tier: standard
+build_stamp: '2025-06-30'
+lifecycle: active
+revalidation: pending
+contact: warehouse-data@nexus.example

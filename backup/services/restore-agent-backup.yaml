@@ -1,0 +1,11 @@
+# Service descriptor - restore-agent-backup
+# Registry partition: backup
+service_id: restore-agent-backup
+partition: backup
+owner_team: storage-ops
+runtime: rust
+tier: critical
+build_stamp: '2017-03-15'
+lifecycle: active
+revalidation: pending
+contact: storage-ops@nexus.example

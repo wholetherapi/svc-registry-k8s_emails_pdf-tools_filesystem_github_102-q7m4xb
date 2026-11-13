@@ -1,0 +1,11 @@
+# Service descriptor - gateway-old
+# Registry partition: legacy-systems
+service_id: gateway-old
+partition: legacy-systems
+owner_team: retired-estate
+runtime: jvm
+tier: standard
+build_stamp: '2019-04-01'
+lifecycle: active
+revalidation: pending
+contact: retired-estate@nexus.example

@@ -1,0 +1,11 @@
+# Service descriptor - sandbox-runner
+# Registry partition: nexus_sandbox
+service_id: sandbox-runner
+partition: nexus_sandbox
+owner_team: developer-experience
+runtime: python
+tier: experimental
+build_stamp: '2024-03-03'
+lifecycle: active
+revalidation: pending
+contact: developer-experience@nexus.example

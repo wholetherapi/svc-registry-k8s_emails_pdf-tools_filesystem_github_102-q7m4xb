@@ -1,0 +1,11 @@
+# Service descriptor - deprecated-cron
+# Registry partition: legacy-systems
+service_id: deprecated-cron
+partition: legacy-systems
+owner_team: retired-estate
+runtime: python
+tier: experimental
+build_stamp: '2020-06-12'
+lifecycle: decommissioned
+revalidation: pending
+contact: retired-estate@nexus.example

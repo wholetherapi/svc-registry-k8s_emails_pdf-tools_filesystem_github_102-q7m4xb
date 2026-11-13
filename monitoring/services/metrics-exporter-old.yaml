@@ -1,0 +1,11 @@
+# Service descriptor - metrics-exporter-old
+# Registry partition: monitoring
+service_id: metrics-exporter-old
+partition: monitoring
+owner_team: observability
+runtime: python
+tier: standard
+build_stamp: '2018-09-30'
+lifecycle: active
+revalidation: pending
+contact: observability@nexus.example

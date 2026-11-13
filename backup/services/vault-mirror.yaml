@@ -1,0 +1,11 @@
+# Service descriptor - vault-mirror
+# Registry partition: backup
+service_id: vault-mirror
+partition: backup
+owner_team: storage-ops
+runtime: go
+tier: standard
+build_stamp: '2026-05-05'
+lifecycle: active
+revalidation: pending
+contact: storage-ops@nexus.example

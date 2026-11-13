@@ -1,0 +1,11 @@
+# Service descriptor - checkout-api
+# Registry partition: production
+service_id: checkout-api
+partition: production
+owner_team: storefront
+runtime: go
+tier: critical
+build_stamp: '2026-08-11'
+lifecycle: active
+revalidation: pending
+contact: storefront@nexus.example

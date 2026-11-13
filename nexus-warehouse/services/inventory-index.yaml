@@ -1,0 +1,11 @@
+# Service descriptor - inventory-index
+# Registry partition: nexus-warehouse
+service_id: inventory-index
+partition: nexus-warehouse
+owner_team: warehouse-data
+runtime: scala
+tier: critical
+build_stamp: '2023-12-05'
+lifecycle: active
+revalidation: pending
+contact: warehouse-data@nexus.example

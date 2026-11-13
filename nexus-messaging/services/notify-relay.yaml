@@ -1,0 +1,11 @@
+# Service descriptor - notify-relay
+# Registry partition: nexus-messaging
+service_id: notify-relay
+partition: nexus-messaging
+owner_team: messaging-infra
+runtime: go
+tier: standard
+build_stamp: '2026-07-01'
+lifecycle: active
+revalidation: pending
+contact: messaging-infra@nexus.example

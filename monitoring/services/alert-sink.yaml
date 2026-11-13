@@ -1,0 +1,11 @@
+# Service descriptor - alert-sink
+# Registry partition: monitoring
+service_id: alert-sink
+partition: monitoring
+owner_team: observability
+runtime: go
+tier: standard
+build_stamp: '2026-01-20'
+lifecycle: active
+revalidation: pending
+contact: observability@nexus.example

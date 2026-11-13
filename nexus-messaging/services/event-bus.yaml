@@ -1,0 +1,11 @@
+# Service descriptor - event-bus
+# Registry partition: nexus-messaging
+service_id: event-bus
+partition: nexus-messaging
+owner_team: messaging-infra
+runtime: erlang
+tier: critical
+build_stamp: '2024-02-11'
+lifecycle: active
+revalidation: pending
+contact: messaging-infra@nexus.example

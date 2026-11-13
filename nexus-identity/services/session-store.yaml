@@ -1,0 +1,11 @@
+# Service descriptor - session-store
+# Registry partition: nexus-identity
+service_id: session-store
+partition: nexus-identity
+owner_team: identity-core
+runtime: go
+tier: standard
+build_stamp: '2026-03-22'
+lifecycle: active
+revalidation: pending
+contact: identity-core@nexus.example

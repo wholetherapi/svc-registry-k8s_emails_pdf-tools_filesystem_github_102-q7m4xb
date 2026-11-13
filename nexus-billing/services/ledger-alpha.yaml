@@ -1,0 +1,11 @@
+# Service descriptor - ledger-alpha
+# Registry partition: nexus-billing
+service_id: ledger-alpha
+partition: nexus-billing
+owner_team: billing-platform
+runtime: rust
+tier: experimental
+build_stamp: '2026-09-14'
+lifecycle: active
+revalidation: pending
+contact: billing-lab@nexus.example

@@ -1,0 +1,11 @@
+# Service descriptor - quarantine-router
+# Registry partition: pre-nexus-quarantine
+service_id: quarantine-router
+partition: pre-nexus-quarantine
+owner_team: security-eng
+runtime: go
+tier: standard
+build_stamp: '2024-01-10'
+lifecycle: active
+revalidation: pending
+contact: security-eng@nexus.example

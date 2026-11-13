@@ -1,0 +1,11 @@
+# Service descriptor - catalog-sync
+# Registry partition: staging
+service_id: catalog-sync
+partition: staging
+owner_team: release-eng
+runtime: python
+tier: standard
+build_stamp: '2025-02-02'
+lifecycle: active
+revalidation: pending
+contact: release-eng@nexus.example

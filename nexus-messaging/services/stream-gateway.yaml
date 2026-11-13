@@ -1,0 +1,11 @@
+# Service descriptor - stream-gateway
+# Registry partition: nexus-messaging
+service_id: stream-gateway
+partition: nexus-messaging
+owner_team: messaging-infra
+runtime: rust
+tier: standard
+build_stamp: '2026-01-01'
+lifecycle: active
+revalidation: pending
+contact: messaging-infra@nexus.example

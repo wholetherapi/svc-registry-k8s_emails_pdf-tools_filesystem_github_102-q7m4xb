@@ -1,0 +1,11 @@
+# Service descriptor - analytics-join
+# Registry partition: nexus-warehouse
+service_id: analytics-join
+partition: nexus-warehouse
+owner_team: warehouse-data
+runtime: python
+tier: experimental
+build_stamp: '2026-10-02'
+lifecycle: active
+revalidation: pending
+contact: warehouse-data@nexus.example

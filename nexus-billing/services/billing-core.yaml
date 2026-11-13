@@ -1,0 +1,11 @@
+# Service descriptor - billing-core
+# Registry partition: nexus-billing
+service_id: billing-core
+partition: nexus-billing
+owner_team: billing-platform
+runtime: jvm
+tier: critical
+build_stamp: '2023-07-19'
+lifecycle: active
+revalidation: pending
+contact: billing-platform@nexus.example
