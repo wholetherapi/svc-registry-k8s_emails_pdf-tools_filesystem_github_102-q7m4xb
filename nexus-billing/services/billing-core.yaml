@@ -7,5 +7,6 @@ runtime: jvm
 tier: critical
 build_stamp: '2023-07-19'
 lifecycle: active
-revalidation: pending
+revalidation: revalidated
+revalidation_cycle: 2026-Q4
 contact: billing-platform@nexus.example
